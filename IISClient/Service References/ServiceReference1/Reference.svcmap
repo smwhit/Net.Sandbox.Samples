@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a26d6290-96b1-4523-9e51-ee69387e9364" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:39986/RestaurantOrder.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RestaurantOrder.disco" MetadataType="Disco" ID="f0403053-1005-4b8d-b428-1329d0e58c4e" SourceId="1" SourceUrl="http://localhost:39986/RestaurantOrder.svc?disco" />
+    <MetadataFile FileName="RestaurantOrder.xsd" MetadataType="Schema" ID="9ead9143-9b28-4d42-b28a-2bf8ccae2f13" SourceId="1" SourceUrl="http://localhost:39986/RestaurantOrder.svc?xsd=xsd1" />
+    <MetadataFile FileName="RestaurantOrder1.xsd" MetadataType="Schema" ID="9ad568ec-2715-43fe-b739-a62a6ef66e3e" SourceId="1" SourceUrl="http://localhost:39986/RestaurantOrder.svc?xsd=xsd2" />
+    <MetadataFile FileName="RestaurantOrder2.xsd" MetadataType="Schema" ID="29afbcf1-6487-4946-bb67-390ebf4285cb" SourceId="1" SourceUrl="http://localhost:39986/RestaurantOrder.svc?xsd=xsd0" />
+    <MetadataFile FileName="CurryRestaurantOrder.wsdl" MetadataType="Wsdl" ID="b3505962-2478-473a-a760-474a592d0ab4" SourceId="1" SourceUrl="http://localhost:39986/RestaurantOrder.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
