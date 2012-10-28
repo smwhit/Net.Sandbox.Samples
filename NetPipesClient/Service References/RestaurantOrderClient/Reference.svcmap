@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2484691d-97bf-42be-8dc7-92f5bdcbc0bb" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://simon-tp:8087/service/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="250540e8-58b2-4480-8a26-2c8b37eb9b1d" SourceId="1" SourceUrl="http://simon-tp:8087/service/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="954eabe5-909c-4329-83e8-74448e6c3950" SourceId="1" SourceUrl="http://simon-tp:8087/service/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="0a53e91c-84ad-4374-bfaa-f4183fde4238" SourceId="1" SourceUrl="http://simon-tp:8087/service/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="9ff1b578-6b9c-46de-be8a-c54cfa4fdd38" SourceId="1" SourceUrl="http://simon-tp:8087/service/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
