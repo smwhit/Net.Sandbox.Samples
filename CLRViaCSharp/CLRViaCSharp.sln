@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsAndBitFlags", "0015_Enums\EnumsAndBitFlags\EnumsAndBitFlags.csproj", "{2B403960-A435-43FF-8770-BFB32EB11766}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharsAndStrings", "CharsAndStrings\CharsAndStrings.csproj", "{DDB2974E-F5C9-462B-B000-AB45A48F3056}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{2B403960-A435-43FF-8770-BFB32EB11766}.Debug|x86.Build.0 = Debug|x86
 		{2B403960-A435-43FF-8770-BFB32EB11766}.Release|x86.ActiveCfg = Release|x86
 		{2B403960-A435-43FF-8770-BFB32EB11766}.Release|x86.Build.0 = Release|x86
+		{DDB2974E-F5C9-462B-B000-AB45A48F3056}.Debug|x86.ActiveCfg = Debug|x86
+		{DDB2974E-F5C9-462B-B000-AB45A48F3056}.Debug|x86.Build.0 = Debug|x86
+		{DDB2974E-F5C9-462B-B000-AB45A48F3056}.Release|x86.ActiveCfg = Release|x86
+		{DDB2974E-F5C9-462B-B000-AB45A48F3056}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
