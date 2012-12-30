@@ -28,6 +28,8 @@ namespace CharsAndStrings
 
             StringFormattingExamples.MultipleObjectsFormatting();
 
+            SecureStringExamples.RetrieveAndShowSecureString();
+
             Console.Read();
         }
     }
