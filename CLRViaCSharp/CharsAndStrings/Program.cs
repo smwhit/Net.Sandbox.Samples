@@ -28,7 +28,11 @@ namespace CharsAndStrings
 
             StringFormattingExamples.MultipleObjectsFormatting();
 
-            SecureStringExamples.RetrieveAndShowSecureString();
+            EncodingExamples.EncodeDecodeUTF8();
+
+            EncodingExamples.Base64StringEncoding();
+
+            //SecureStringExamples.RetrieveAndShowSecureString();
 
             Console.Read();
         }
