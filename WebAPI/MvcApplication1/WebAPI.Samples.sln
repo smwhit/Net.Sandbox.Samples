@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Web
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{28AB8BF1-3107-4194-89E2-2BF28BC0B931}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "MvcApplication1\HelloWorld.csproj", "{28AB8BF1-3107-4194-89E2-2BF28BC0B931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductStore", "ProductStore\ProductStore.csproj", "{99AD3716-526E-415B-B52B-64A1AAC0D1A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{28AB8BF1-3107-4194-89E2-2BF28BC0B931}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28AB8BF1-3107-4194-89E2-2BF28BC0B931}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28AB8BF1-3107-4194-89E2-2BF28BC0B931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AD3716-526E-415B-B52B-64A1AAC0D1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AD3716-526E-415B-B52B-64A1AAC0D1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AD3716-526E-415B-B52B-64A1AAC0D1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AD3716-526E-415B-B52B-64A1AAC0D1A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
