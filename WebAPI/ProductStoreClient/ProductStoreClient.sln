@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductStoreClient", "ProductStoreClient.csproj", "{1EBE0CC0-E71C-4AB2-956D-7D28DE4BEADF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF.ProductStoreClient", "..\WPF.ProductStoreClient\WPF.ProductStoreClient.csproj", "{44459F33-FF2C-4133-A829-446181855895}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{1EBE0CC0-E71C-4AB2-956D-7D28DE4BEADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EBE0CC0-E71C-4AB2-956D-7D28DE4BEADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EBE0CC0-E71C-4AB2-956D-7D28DE4BEADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44459F33-FF2C-4133-A829-446181855895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44459F33-FF2C-4133-A829-446181855895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44459F33-FF2C-4133-A829-446181855895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44459F33-FF2C-4133-A829-446181855895}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
