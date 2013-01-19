@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharsAndStrings", "CharsAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskParallelLibraryExamples", "TaskParallelLibraryExamples\TaskParallelLibraryExamples.csproj", "{F97B6594-33FF-4A0A-A76F-6BE209D69DFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamExamples", "StreamExamples\StreamExamples.csproj", "{2AE3590A-A88A-46E7-BCC9-F21133157721}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,16 @@ Global
 		{F97B6594-33FF-4A0A-A76F-6BE209D69DFE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{F97B6594-33FF-4A0A-A76F-6BE209D69DFE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{F97B6594-33FF-4A0A-A76F-6BE209D69DFE}.Release|x86.ActiveCfg = Release|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{2AE3590A-A88A-46E7-BCC9-F21133157721}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
